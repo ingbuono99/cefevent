@@ -20,6 +20,10 @@ This library is able to generate, validate and send CEF events.
 
 <hr>
 
+
+## IMPORTANT!
+Run the code from outside the cefevent folder, otherwise there could be some issues.
+
 ## Usage
 
 ```
